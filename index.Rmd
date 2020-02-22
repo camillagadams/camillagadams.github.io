@@ -1,0 +1,47 @@
+---
+title: "Camilla Adams"
+#author: "Camilla Adams"
+#date: "2/22/2020"
+output: html_document
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### About
+
+I am a predoctoral research fellow at Princeton University's Industrial Relations Section. I am interested in health, development, and labor economics.
+
+### Working Papers
+##### **Minimum Wage and Search Effort** *with [Jonathan Meer](http://people.tamu.edu/~jmeer/) and [Carlywill Sloan](https://carlywillsloan.com/)*
+###### ([NBER Working Paper 25218](https://www.nber.org/papers/w25128), updated version, [CATO brief](https://www.cato.org/publications/research-briefs-economic-policy/minimum-wage-search-effort))
+Labor market search-and-matching models posit supply-side responses to minimum wage increases that may lead to improved matches and lessen or even reverse negative employment effects. Yet there is no empirical evidence on this crucial assumption. Using event study analysis of recent minimum wage increases, we find that increases to minimum wage do not increase the likelihood of searching, but do lead to large yet very transitory spikes in search effort by individuals already looking for work. The results are not driven by changes in the composition of searchers.
+
+### Education
+**Texas A&M University**
+<p>Bachelor of Science in Economics Minor in Mathematics</p>
+
+### Exprience
+**Princeton University**
+<p> Research Assistant for Prof. Anne Case & Prof. Angus Deaton </p>
+
+**Texas A&M University**
+<p> Research Assistant for Prof. Jonathan Meer </p>
+
+**Federal Reserve Bank of St. Louis**
+<p> Summer Research Associate </p>
+
+### Awards
+<p> Texas A&M University, Econometrics Outstanding Paper Award </p>
+<p> Professor Svetozar Pejovich Scholarship </p>
+<p> Texas A&M University, Economics Department Amazing Student </p>
+<p> The Neal Hahn Memorial Scholarship </p>
+
+### Presentations
+###### 2019
+<p> Women in Economic Research Conference @ Williams College </p>
+<p> The Association of Private Enterprise Education Conference </p>
+###### 2019
+<p> January 2018 & Undergraduate Research Scholars Symposium </p>
