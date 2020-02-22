@@ -1,5 +1,5 @@
 ---
-title: "Camilla Adams"
+#title: "Camilla Adams"
 #author: "Camilla Adams"
 #date: "2/22/2020"
 output: html_document
@@ -9,9 +9,12 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+<center> <h1>Camilla Grace Adams</h1> </center>
+<center>
+[CV (pdf)](https://drive.google.com/file/d/1qH_867rB3vx-jIDTBNCMSC9eYW_JXWrn/view?usp=sharing) - cgadams [at] princeton [dot] edu 
+</center>
 
 ### About
-
 I am a predoctoral research fellow at Princeton University's Industrial Relations Section. I am interested in health, development, and labor economics.
 
 ### Working Papers
